@@ -36,7 +36,7 @@
 	<frame_geometry name="normal_shaded" rounded_bottom_left="true" rounded_bottom_right="true" parent="normal" />
 
 	<!-- no buttons -->
-	<frame_geometry name="nobuttons" hide_buttons="true" parent="normal" />
+	<frame_geometry name="nobuttons" hide_buttons="false" parent="normal" />
 	<frame_geometry name="nobuttons_shaded" rounded_bottom_left="true" rounded_bottom_right="true" parent="nobuttons" />
 
 	<!-- maximized window -->
