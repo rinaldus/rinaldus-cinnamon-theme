@@ -8,5 +8,5 @@ Encoding=UTF-8
 Type=X-GNOME-Metatheme
 GtkTheme=rinaldus-cinnamon-theme
 MetacityTheme=rinaldus-cinnamon-theme
-IconTheme=Adwaita
+IconTheme=rinaldus-cinnamon-theme
 CursorTheme=Adwaita
