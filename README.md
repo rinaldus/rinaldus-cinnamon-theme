@@ -1,3 +1,7 @@
+# Migration
+
+This repository is now read only, I won't update it anymore. Actual repository is here: https://git.rinaldus.ru/Rinaldus/rinaldus-cinnamon-theme
+
 # Description
 My Cinnamon theme based on Plata-Lumine and Yaru-light
 
